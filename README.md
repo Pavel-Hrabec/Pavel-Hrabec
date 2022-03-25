@@ -1,5 +1,11 @@
-### Hi there 👋
-Currently working on this site
+### Hi there, I'm Pavel👋 
+- I'm Network and Security Analyst passionate about Cloud
+- My main goal is to improve my professional skills while creating projects in a wide range of technologies
+- I’m currently learning Azure Cloud and Terraform
+- You can reach me on Linked-In
+
+<a href="https://www.linkedin.com/in/pavel-hrabec-0a918519b/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a> <a href="https://www.pavelhrabec.me/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
+
 <!--
 **Pavel-Hrabec/Pavel-Hrabec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
