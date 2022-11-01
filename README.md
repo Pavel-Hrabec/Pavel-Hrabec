@@ -4,7 +4,7 @@
 - I’m currently learning Azure Cloud and Terraform
 - You can reach me on Linked-In
 
-<a href="https://www.linkedin.com/in/pavel-hrabec-0a918519b/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a> <a href="https://www.pavelhrabec.me/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
+<a href="https://www.linkedin.com/in/pavel-hrabec-0a918519b/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contai
 
 <!--
 **Pavel-Hrabec/Pavel-Hrabec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
